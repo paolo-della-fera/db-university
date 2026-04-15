@@ -1,4 +1,4 @@
-# db-university
+# db-university pt.1
 
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 - sono presenti diversi `Dipartimenti` (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -14,3 +14,12 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 
 Utilizzare `https://www.drawio.com/` per la creazione dello schema.
 Esportare quindi il diagramma in png, caricarlo in un file html e pushare tutto nella repo.
+
+<br>
+
+# db-university pt.2
+
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+
+### Cosa consegnare?
+Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
